@@ -127,4 +127,4 @@ O projeto incentiva práticas alinhadas ao uso real da Testing Library:
 
 ## Objetivo acadêmico
 
-Este repositório foi estruturado para apoiar atividades de ensino com progressão de dificuldade. A aplicação é propositalmente pequena para que a atenção fique nos testes, na leitura de interface e na qualidade das assertions, e não em detalhes de infraestrutura.# mini-loja-testes-rpv-CONCLUIDO
+Este repositório foi estruturado para apoiar atividades de ensino com progressão de dificuldade. A aplicação é propositalmente pequena para que a atenção fique nos testes, na leitura de interface e na qualidade das assertions, e não em detalhes de infraestrutura.# mini-loja-testes-rpv-CONCLUIDO  Ass: Nathan Miranda Aluno do RPV
